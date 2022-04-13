@@ -178,6 +178,13 @@ textarea {
   margin-top: 5px;
 }
 
+.font-test {
+  padding: 0;
+  text-align: left;
+  font-family: 'Maven Pro', sans-serif;
+  margin-top: 10px;
+}
+
 footer {
   background-image: url("../img/footer_img.webp");
   background-size: cover;
