@@ -251,3 +251,54 @@ footer h3 {
   color: white;
   text-align: center;
 }
+
+.text-regular {
+  font-family: lust, serif;
+  width: 240px;
+  height: 20px;
+  font-size: 18px;
+  color: #31351e;
+}
+
+.text_display {
+  font-family: lust-display, serif;
+  width: 240px;
+  height: 20px;
+  font-size: 18px;
+  color: #31351e;
+}
+
+.text_fine {
+  font-family: lust-fine, serif;
+  width: 240px;
+  height: 20px;
+  font-size: 18px;
+  color: #31351e;
+}
+
+.text_italic {
+  font-family: lust, serif;
+  font-style: italic;
+  width: 240px;
+  height: 20px;
+  font-size: 18px;
+  color: #31351e;
+}
+
+.text_display_italic {
+  font-family: lust-display, serif;
+  font-style: italic;
+  width: 240px;
+  height: 20px;
+  font-size: 18px;
+  color: #31351e;
+}
+
+.text_fine_italic {
+  font-family: lust-fine, serif;
+  font-style: italic;
+  width: 240px;
+  height: 20px;
+  font-size: 18px;
+  color: #31351e;
+}
