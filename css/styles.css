@@ -2,6 +2,7 @@
   font-family: lust, serif;
   font-family: lust-display, serif;
   font-family: lust-fine, serif;
+  font-family: 'Maven Pro', sans-serif;
 */
 
 html {
@@ -14,5 +15,25 @@ body {
 }
 
 header {
-  background-image: url("../img/green.jpeg");
+  background-image: url("../img/green1.webp");
+  height: 370px;
+  background-size: cover;
+}
+
+header h1 {
+  font-family: lust, serif;
+  font-size: 90px;
+  color: white;
+  margin: 0;
+  padding-top: 130px;
+  padding-right: 90px;
+  padding-left: 90px; 
+}
+
+header p {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 15px;
+  color: white;
+  margin: 0;
+  text-align: center;
 }
