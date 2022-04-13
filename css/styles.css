@@ -7,3 +7,12 @@
 html {
   scroll-behavior: smooth;
 }
+
+body {
+  max-width: 380px;
+  margin: auto;
+}
+
+header {
+  background-image: url("../img/green.jpeg");
+}
