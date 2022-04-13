@@ -37,3 +37,134 @@ header p {
   margin: 0;
   text-align: center;
 }
+
+main {
+  background-color: #e6eec8;
+}
+
+main p {
+  font-family: 'Maven Pro', sans-serif;
+  font-size: 11px;
+  color: #31351e;
+  margin: 0;
+  padding: 50px 60px;
+  text-align: center;
+}
+
+main h2 {
+  font-family: 'Maven Pro', sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0;
+  color: #31351e;
+  padding-left: 75px;
+}
+
+.container_specimen {
+  background-image: url(../img/aloe.webp);
+  background-size: cover;
+  width: 225px;
+  height: 250px;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 55px;
+}
+
+.word_absynthe {
+  font-family: lust, serif;
+  font-size: 23px;
+  color: white;
+  margin-left: 30px;
+  padding-top: 30px;
+}
+
+.word_sauge {
+  font-family: lust-display, serif;
+  font-size: 23px;
+  color: white;
+  margin-left: 30px;
+}
+
+.word_aloe {
+  font-family: lust-fine, serif;
+  font-size: 23px;
+  color: white;
+  margin-left: 30px;
+}
+
+.word_eucalyptus {
+  font-family: lust, serif;
+  font-style: italic;
+  font-size: 23px;
+  color: white;
+  margin-left: 30px;
+}
+
+.word_olive {
+  font-family: lust-display, serif;
+  font-style: italic;
+  font-size: 23px;
+  color: white;
+  margin-left: 30px;
+}
+
+.word_jade {
+  font-family: lust-display, serif;
+  font-style: italic;
+  font-size: 23px;
+  color: white;
+  margin-left: 30px;
+  padding-bottom: 30px;
+}
+
+.container_character {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.container_character img {
+  height: 120px;
+}
+
+.container_character h3 {
+  font-family: 'Maven Pro', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  color: #31351e;
+  text-align: center;
+}
+
+.container_character_map {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.container_character_map img {
+  height: 120px;
+  margin-bottom: 55px;
+}
+
+.container_character_map h3 {
+  font-family: 'Maven Pro', sans-serif;
+  font-weight: 200;
+  font-size: 14px;
+  color: #31351e;
+  text-align: center;
+}
+
+.title {
+  font-family: lust, serif;
+  font-size: 25px;
+  margin-left: 30px;
+  padding-bottom: 30px;
+}
+
+.container_text {
+  margin-left: 70px;
+}
